@@ -1,2 +1,2 @@
 # CookPal
-Your Fridge-2-Fort Ai Assistant.
+Your Fridge-2-Fork Ai Assistant.
